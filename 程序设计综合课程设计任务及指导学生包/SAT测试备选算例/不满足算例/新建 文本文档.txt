@@ -1,0 +1,17 @@
+1.未测试
+2.未测试
+3.func1：未跑出（4min），func3：未跑出（8min）
+4.func1：5290ms，func2：4144ms，func3：2659ms
+5.未测试
+6.func1：0ms，func2：0ms，func3：0ms
+7.func1：40ms，func2：80ms，func3：60ms
+8.func1：38404ms，func2：320811ms，func3：78906ms
+9.func1：未跑出（7min30s）
+10.func1求解正确
+11.func1：11469ms，func2：51580ms，func3：1530ms
+12.func1：，func2：，func3：未跑出（17min30s）
+13.func1：，func2：，func3：未跑出（3min）
+14.func1：0ms，func2：0ms，func3：0ms
+15.func1：0ms，func2：10ms，func3：39636ms，func5：546240ms
+16.func1：未跑出（10min），func2：，func3：
+17.func1：，func2：，func3：

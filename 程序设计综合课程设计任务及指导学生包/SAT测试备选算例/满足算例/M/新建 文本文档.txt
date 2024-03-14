@@ -1,0 +1,5 @@
+第2个，func1未跑出结果，func2未跑出结果
+第3个，func1未跑出结果，func2未跑出结果（4min），func3未跑出结果（10min）
+第4个，func1未跑出结果（4min），func2未跑出结果（5min）
+第5个，func1未跑出结果（4min）func2未跑出结果（5min）
+第6个，func1：21071ms，func2：8ms，func3：10ms
